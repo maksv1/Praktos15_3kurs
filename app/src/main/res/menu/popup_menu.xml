@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_increment"
+        android:title="Увеличить"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/menu_decrement"
+        android:title="Уменьшить"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/menu_reset"
+        android:title="Сбросить"
+        tools:ignore="HardcodedText" />
+</menu>

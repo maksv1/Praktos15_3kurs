@@ -1,0 +1,4 @@
+<resources>
+    <style name="Base.Theme.Wsw" parent="Theme.Material3.DayNight" />
+    <style name="Theme.Wsw" parent="Base.Theme.Wsw" />
+</resources>

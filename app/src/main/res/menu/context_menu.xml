@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_change_text_1"
+        android:title="Изменить текст 1"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/menu_change_text_2"
+        android:title="Изменить текст 2"
+        tools:ignore="HardcodedText" />
+</menu>
